@@ -8,7 +8,6 @@ public class Main {
         Scanner s = new Scanner(System.in);
         System.out.println("Введите число");
         int value = s.nextInt();
-
         if (value > 7)
             System.out.println("Привет");
     }
