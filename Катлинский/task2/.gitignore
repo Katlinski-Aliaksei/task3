@@ -1,3 +1,5 @@
-*.iml
-/.idea
-/out
+/shelf/
+/out/
+/.idea/
+/workspace.xml
+task2.iml
